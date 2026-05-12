@@ -75,6 +75,3 @@ The application will typically be available at `http://localhost:8501`.
 ## ⚠️ Disclaimer
 
 This software is for educational and research purposes only. The predictions and projections generated are based on statistical probabilities and do not constitute financial advice.
-```
-
-```
