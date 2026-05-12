@@ -28,7 +28,7 @@ Financial time series are inherently noisy, making exact price predictions often
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/ByeBye21/stock_prediction.git](https://github.com/ByeBye21/stock_prediction.git)
+git clone https://github.com/ByeBye21/stock_prediction.git
 cd stock_prediction
 
 ```
